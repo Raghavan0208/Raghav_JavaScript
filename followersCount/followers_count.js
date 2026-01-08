@@ -15,3 +15,9 @@ function checkCountValue(){
         alert("you got 15 followers");
     }
 }
+function countreset(){
+
+    count =0;
+    displayCount();
+    alert("followers got reset");
+}
